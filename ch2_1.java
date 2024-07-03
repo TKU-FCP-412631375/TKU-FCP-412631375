@@ -8,6 +8,6 @@ public class ch2_1{   //定義public類別ch2_1
       System.out.println(num1+"cats are runing");  //印出字串內容
       System.out.println(num2+"dogs are runing");
       System.out.println(num3+"birds are runing");
-      System.out.println(num4+"birds are runing");
+      System.out.println(num4+"tigers are runing");
     }
 }
